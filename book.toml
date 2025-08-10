@@ -1,0 +1,5 @@
+[book]
+authors = ["jrs"]
+language = "en"
+src = "src"
+title = "Procedural Starships"
