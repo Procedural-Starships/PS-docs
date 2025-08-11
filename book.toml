@@ -3,3 +3,8 @@ authors = ["jrs"]
 language = "en"
 src = "src"
 title = "Procedural Starships"
+
+[output.html]
+theme = "theme"
+preferred-dark-theme = "ayu"
+hash-files = true

@@ -317,6 +317,7 @@ aria-label="Show hidden lines"></button>';
         ayuHighlight: document.querySelector('#ayu-highlight-css'),
         tomorrowNight: document.querySelector('#tomorrow-night-css'),
         highlight: document.querySelector('#highlight-css'),
+        cool: document.querySelector("#test.css")
     };
 
     function showThemes() {
